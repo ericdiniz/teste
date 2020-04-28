@@ -1,2 +1,2 @@
 # teste
-exemplo de repositorio
+exemplo de REPOSITÓRIO.
