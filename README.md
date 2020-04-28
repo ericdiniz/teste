@@ -1,4 +1,3 @@
 # teste
 exemplo de REPOSITÓRIO.
-aqui teve uma alteração
-12454632
+aprendendo sobre git olha só olha lá.
